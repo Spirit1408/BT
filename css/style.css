@@ -105,7 +105,7 @@ body {
     position: relative;
     font-size: calc(var(--index) * 4);
     text-transform: uppercase;
-    letter-spacing: calc(var(--index) * 1.65);
+    letter-spacing: 20.5px;
     margin-bottom: calc(var(--index) * 2.3);
     text-shadow: 0 0 7px #fff;
     text-align: center;
